@@ -1,2 +1,2 @@
 # Tensorflow2-HRNet
-HRNet implemented by TensorFlow2 , with support for training, evaluation and inference.
+High-Resolution Representation Learning for Human Pose Estimation. 
